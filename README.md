@@ -1,4 +1,4 @@
-# Titan
+# Titan!
 ## Your Code. Your Environment. Your Data. 
 ## <a id="getting-started"></a> Getting Started
 
